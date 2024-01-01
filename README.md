@@ -12,5 +12,5 @@ docker-compose up -d
 ```
 ## localhost
 - webserver : http://localhost/
-- phpMyAdmin : http://localhost:8080/
+- phpMyAdmin : http://localhost:8080/ (connect: mysql, root:root)
   
